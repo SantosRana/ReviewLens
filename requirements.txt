@@ -1,0 +1,6 @@
+streamlit
+ollama
+torch
+transformers
+pandas
+requests
