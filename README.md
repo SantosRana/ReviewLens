@@ -219,13 +219,16 @@ streamlit run app.py
 
 ---
 
-### 6. Setup Requirements
+## 6. Setup Requirements
 
 Before running the project, ensure:
 
 - Model weights are placed in the weights/ directory
 - Ollama is running locally for Qwen inference
 - Naver API keys are generated
+
+## 🎥 Demo
+[Watch Demo Video]()
 
 
 ---
