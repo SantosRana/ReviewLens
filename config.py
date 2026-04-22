@@ -1,8 +1,8 @@
 # config.py
 from pathlib import Path
 
-NAVER_CLIENT_ID = "h5Wu7OzTZNq21VNfzaaF"
-NAVER_CLIENT_SECRET = "9OTDKFYw0c"
+NAVER_CLIENT_ID = ""
+NAVER_CLIENT_SECRET = ""
 
 ROOT = Path(__file__).parent
 WEIGHTS_DIR = ROOT / "weights" / "kc_electra"
