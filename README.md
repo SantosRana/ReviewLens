@@ -150,7 +150,7 @@ How can you help me?
 # 📂 Project Structure
 
 ```text
-absa_agent/
+ReviewLens/
 ├── src/                                 # Source code package
 │   ├── kc_electra/                      # Korean ELECTRA model sub-package
 │   │   ├── __init__.py
@@ -185,7 +185,7 @@ absa_agent/
 
 ```bash
 git clone <your-repo-url>
-cd absa_agent
+cd ReviewLens
 ```
 
 ## 2. Install Dependencies
