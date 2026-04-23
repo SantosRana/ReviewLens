@@ -228,7 +228,7 @@ Before running the project, ensure:
 - Naver API keys are generated
 
 ## 🎥 Demo
-[Watch Demo Video]()
+[Watch Demo Video](https://drive.google.com/file/d/1hf2juKV-rgyAbUo9-NCDDF25670pEof9/view?preview)
 
 
 ---
