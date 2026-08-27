@@ -1,0 +1,14 @@
+# Core LLM Engine & Data Contracts
+groq==1.6.0
+pydantic==2.13.3
+python-dotenv==1.2.3
+
+# Web API & Discovery
+requests==2.33.1
+
+# Web Frontend
+streamlit==1.56.0
+
+# Automated Testing & Coverage
+pytest==9.0.3
+pytest-cov==7.1.0

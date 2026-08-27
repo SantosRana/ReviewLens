@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reviewlens"
+version = "0.1.0"
+description = "Korean Restaurant Aspect-Based Sentiment Analysis Engine"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "groq",
+    "pydantic>=2.0",
+    "streamlit",
+    "python-dotenv",
+    "pytest"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+[tool.setuptools.package-data]
+"*" = ["*.md", "*.json", "*.txt"]
